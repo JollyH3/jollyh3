@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/f3fcf8b5-060f-42d1-a4c3-d6aad4b675a6.svg)](https://wakatime.com/@f3fcf8b5-060f-42d1-a4c3-d6aad4b675a6)
 <!--
 **JollyH3/jollyh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
